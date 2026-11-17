@@ -61,10 +61,3 @@
 | [bao-fpmc](https://github.com/GOAguiar99/bao-fpmc) | Fixed Priority Memory-Centric scheduling over the Bao hypervisor with FreeRTOS guests | C · ARM · RISC-V |
 | [TASforWifi](https://github.com/GOAguiar99/TASforWifi) | Time-Aware Shaper (TSN) implementation for Wi-Fi | C++ |
 | [controle-gastos](https://github.com/GOAguiar99/controle-gastos) | Personal finance web app — income, expenses, recurrences, cash-flow projection. One Go binary + SQLite | Go · SQLite |
-
-### 📊 GitHub stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GOAguiar99&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOAguiar99&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Top languages">
-</p>
