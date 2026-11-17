@@ -5,6 +5,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/goaguiar99"><img src="https://img.shields.io/badge/LinkedIn-goaguiar99-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/goaguiar2204"><img src="https://img.shields.io/badge/Work%20account-%40goaguiar2204%20(TRACTIAN)-181717?style=flat&logo=github&logoColor=white" alt="Work GitHub account"></a>
   <img src="https://img.shields.io/badge/Florian%C3%B3polis-Brazil-009739?style=flat" alt="Location">
   <img src="https://komarev.com/ghpvc/?username=GOAguiar99&style=flat&color=0A66C2&label=profile+views" alt="Profile views">
 </p>
